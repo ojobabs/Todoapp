@@ -5,10 +5,11 @@ A simple django todoapp
 
 # Documentation
 Simply clone this repo, and run
-'manage.py makemigrations'
-This is to prepare the migration files
-'manage.py migrate'
-To migrate
+
+'manage.py makemigrations' - This is to prepare the migration files
+
+'manage.py migrate' -To migrate
+
 'manage.py createsuperuser' - create the admin login
 
 'manage.py runserver 8100' To launch LIVE SERVER
